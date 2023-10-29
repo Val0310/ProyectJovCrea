@@ -54,4 +54,58 @@
 
 .banner{
     background-color: #F0811B;
+    display: flex;
+    width: 100%;
 }
+
+.text-banner{
+    color: white;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.parragraph{
+    font-size: 270%;
+    padding: 10%;
+    padding-left: 28%;
+    text-align: center;
+}
+
+.buttom-banner{
+    display: flex;
+    justify-content: center;
+    padding-left: 13%;
+}
+
+.buttom1{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: 800;
+    color: #F0811B;
+}
+
+.buttom2{
+    background-color:#EFC034;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: 800;
+    color: white;
+    margin-left: 6px;
+}
+
+.img-banner{
+    width: 50%;
+    position: relative;
+    padding: -20px;
+    margin: -3px;
+}
+
+.mujer{
+    width: 55%;
+    padding-left: 20%;
+}
+
