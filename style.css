@@ -107,5 +107,65 @@
 .mujer{
     width: 55%;
     padding-left: 20%;
+    margin-top: 30px;
 }
 
+.first-section{
+    background-color: #FFE29E;
+}
+
+.who-we-are{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-hands{
+    width: 30%;
+}
+
+.tittle-first-sec{
+    color: #E7650E;
+    font-weight: 700;
+    font-size: 270%;
+    margin-top: 6%;
+    margin-bottom: 4%;
+}
+
+.text{
+    text-align: center;
+    width: 40%;
+}
+
+.text-first-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttom3{
+    background-color: #F0811B;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: 800;
+    color: white;
+     margin-top: 4%;
+}
+
+.second-section{
+    background-color: #F0811B;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card1{
+    background-color: #FFE29E;
+    margin-top: 5%;
+    width: 70%;
+    border-radius: 120px;
+    display: flex;
+}
+
+.img-card1{
+    width: 50%;
+}
