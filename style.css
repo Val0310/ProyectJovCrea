@@ -53,6 +53,7 @@
     border-radius: 20px;
     font-weight: 800;
     color: white;
+    text-decoration: none;
 }
 
 .iniciarsesion{
@@ -61,6 +62,7 @@
     border-radius: 20px;
     font-weight: 800;
     color: #F0811B;
+    text-decoration: none;
 }
 
 .banner{
