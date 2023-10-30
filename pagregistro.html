@@ -4,34 +4,49 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styleregistro.css">
-    <title>Iniciar sesión</title>
+    <title>Registrarse</title>
 </head>
 <body>
+
     <div class="container">
         <img src="./img/logo2.svg" class="logo">
 
         <div class="form">
         
-
                 <form>
+                    
+                        <label>Nombre</label><br>
+                    <input type="text" class="input"><br>
+                    
+                    <label>Apellido</label><br>
+                    <input type="text" class="input"><br>
+
+                    
+                    
                     <label>Correo electrónico</label><br>
-                    <input type="email">
-                    <br><br>
+                    <input type="email"><br>
+            
                     <label>Contraseña</label><br>
-                    <input type="password">
+                    <input type="password"><br><br>
+
+                    <div class="genero">
+                        <label>Género</label>
+                    <input type="radio" value="1" name="genero">Femenino
+                    <input type="radio" value="2" name="genero">Masculino
+                    <input type="radio" value="3" name="genero">Otro
+                    </div>
                 </form>
             
 
-            <div class="buttom1"><a>Iniciar sesión</a></div>
+            <div class="buttom1"><a>Regístrate
+            </a></div>
 
         </div>
 
-        <p class="text">¿Eres Nuevo? <a class="text2">Regístrate</a></p>
+        <p class="text">¿Ya tienes cuenta? <a class="text2" href="./paginise.html">Inicia sesión</a></p>
 
 
     </div>
-
-    
     
 </body>
 </html>
