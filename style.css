@@ -160,12 +160,51 @@
 
 .card1{
     background-color: #FFE29E;
-    margin-top: 5%;
-    width: 70%;
+    margin-top: 2%;
+    width: 65%;
     border-radius: 120px;
     display: flex;
+    justify-content: center;
 }
 
 .img-card1{
     width: 50%;
+}
+
+.tittle-card1{
+    color: #E7650E;
+    font-weight: 700;
+    font-size: 230%;
+    margin-bottom: 5%;
+}
+
+.textcard1{
+    text-align: center;
+    width: 60%;
+    margin-bottom: 5%;
+}
+.text-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.ver-mas-buttom{
+    background-color: #F0811B;
+    padding: 10px;
+    border-radius: 20px;
+    font-weight: 800;
+    color: white;
+
+}
+
+.card2{
+    background-color: #FFE29E;
+    margin-top: 2%;
+    width: 65%;
+    border-radius: 120px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
 }
