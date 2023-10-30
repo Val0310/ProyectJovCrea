@@ -22,6 +22,17 @@
 
 .list-item1{
     font-weight: 900;
+    font-size: large;
+}
+
+.list-item2{
+    
+    font-size: large;
+}
+
+.list-item3{
+    
+    font-size: large;
 }
 
 .navbarbuttons{
@@ -120,20 +131,21 @@
 }
 
 .img-hands{
-    width: 30%;
+    width: 27%;
 }
 
 .tittle-first-sec{
     color: #E7650E;
     font-weight: 700;
-    font-size: 270%;
-    margin-top: 6%;
+    font-size: 280%;
+    margin-top: 4%;
     margin-bottom: 4%;
 }
 
 .text{
     text-align: center;
     width: 40%;
+    font-size: large;
 }
 
 .text-first-section{
@@ -207,4 +219,77 @@
     display: flex;
     justify-content: center;
     margin-bottom: 2%;
+}
+
+.third-section{
+    background-color: #FFE29E;
+    display: flex;
+    justify-content: space-around;
+}
+
+.minicard{
+    background-color: white;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 4%;
+    padding: 3%;
+    border-radius: 30px;
+}
+
+.textcomment1{
+    text-align: center;
+    margin: 7%;
+    font-weight: 800;
+    width: 100%;
+}
+
+.imgminicard{
+    width: 40%;
+}
+
+.textcomment2{
+    font-weight: 400;
+}
+
+footer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #F0811B;
+}
+
+.listfooter{
+    list-style: none;
+    margin-left: 13%;
+    
+}
+.logofooter{
+    width:13%;
+    padding: 4%;
+}
+
+.list-item-footer{
+    margin-top: 20%;
+    font-weight: 600;
+    color: white;
+    font-size: large;
+    margin-bottom: 10%;
+}
+
+.list-item-footer1{
+    margin-top: 35%;
+    font-weight: 600;
+    color: white;
+    font-size: large;
+    margin-bottom: 10%;
+}
+
+.list-item-footer2{
+    margin-top: 30%;
+    font-weight: 600;
+    color: white;
+    font-size: large;
+    margin-bottom: 10%;
 }
