@@ -26,12 +26,12 @@
     text-decoration: none;
     color: black;
 }
-
-.list-item2{
+.list-itemini{
     text-decoration: none;
     font-size: large;
     color: black;
 }
+
 
 .list-item3{
     text-decoration: none;
@@ -83,7 +83,7 @@
     color: white;
     font-size: 270%;
     font-weight: 900;
-    margin-top: 10%;
+
 }
 
 .parragraph{
@@ -97,6 +97,7 @@
     position: relative;
 }
 
+
 .imagen{
     width: 100%;
     position: absolute;
@@ -107,6 +108,8 @@
     display: flex ;
     flex-direction:column ;
     align-items: center;
+    justify-content: center;
+    padding-bottom: 5%;
 }
 
 .prinimg{
@@ -116,11 +119,111 @@
 .second-section{
     display: flex;
     background-color: #F0811B;
-    margin-top: 10%;
+    margin-top: 4%;
+    justify-content: center;
+   
 }
 
 .tittle2{
     color: white;
     font-size: 130%;
     font-weight: 700;
+}
+
+.principiosection{
+    margin-top: 13%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.textosolo{
+    color: #F0811B;
+}
+
+.titulo{
+    color: white;
+    font-size: 180%;
+    font-weight: 700;
+    text-align: center;
+}
+
+.misionvision{
+    background-color: #FFE29E;
+    padding-top: 3%;
+    padding-bottom: 1%;
+}
+
+.textcards{
+    background-color: #F0811B;
+    width: 20%;
+    padding: 6% 4% 6% 4%;
+    border-radius: 90px;
+    margin-left: -8%;
+}
+
+.textcardsvision{
+    background-color: #F0811B;
+    width: 20%;
+    padding: 6% 4% 6% 4%;
+    border-radius: 90px;
+    margin-left: -8%;
+}
+
+.mision{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3%;
+}
+
+.imagencards{
+    width: 18%;
+    margin-left: 5%;
+}
+
+.imgmision{
+    width: 150%;
+
+}
+
+footer{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #F0811B;
+}
+
+.listfooter{
+    list-style: none;
+    margin-left: 13%;
+    
+}
+.logofooter{
+    width:13%;
+    padding: 4%;
+}
+
+.list-item-footer{
+    margin-top: 20%;
+    font-weight: 600;
+    color: white;
+    font-size: large;
+    margin-bottom: 10%;
+}
+
+.list-item-footer1{
+    margin-top: 35%;
+    font-weight: 600;
+    color: white;
+    font-size: large;
+    margin-bottom: 10%;
+}
+
+.list-item-footer2{
+    margin-top: 30%;
+    font-weight: 600;
+    color: white;
+    font-size: large;
+    margin-bottom: 10%;
 }
