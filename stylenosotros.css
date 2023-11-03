@@ -16,7 +16,7 @@
 .list-menu{
     display: flex;
     list-style: none;
-    gap: 10%;
+    gap: 35%;
     font-weight: 500;
 }
 
@@ -151,7 +151,7 @@
 .misionvision{
     background-color: #FFE29E;
     padding-top: 3%;
-    padding-bottom: 1%;
+    padding-bottom: 0.1%;
 }
 
 .textcards{
@@ -226,4 +226,8 @@ footer{
     color: white;
     font-size: large;
     margin-bottom: 10%;
+}
+.a-list-item-footer{
+    text-decoration: none;
+    color: white;
 }

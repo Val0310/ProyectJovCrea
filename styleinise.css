@@ -32,8 +32,9 @@ label{
 }
 
 .logo{
-    width: 14%;
-    margin: 3%;
+    width: 80%;
+    margin: 5%;
+    margin-left: 10%;
 }
 .buttom1{
     background-color: #F0811B;

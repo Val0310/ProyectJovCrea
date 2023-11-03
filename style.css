@@ -16,7 +16,7 @@
 .list-menu{
     display: flex;
     list-style: none;
-    gap: 10%;
+    gap: 35%;
     font-weight: 500;
 }
 
@@ -281,6 +281,12 @@ footer{
     color: white;
     font-size: large;
     margin-bottom: 10%;
+    
+}
+
+.a-list-item-footer{
+    text-decoration: none;
+    color: white;
 }
 
 .list-item-footer1{
