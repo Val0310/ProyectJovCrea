@@ -41,8 +41,8 @@
 .navbarbuttons{
     display: flex;
     list-style: none;
-    
-    width: 14%;
+    gap: 12%;
+    width: 16%;
     align-items: center;
 }
 
@@ -57,6 +57,7 @@
     font-weight: 800;
     color: white;
     text-decoration: none;
+    
 }
 
 
